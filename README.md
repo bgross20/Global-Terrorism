@@ -12,7 +12,7 @@ To build an interactive dashboard that will visually showcase well-curated resul
 
 I was able to choose which open-source data I wanted to work as long as it met certain requirements which are listed below. The data is open-source data from Kaggle. It consists of 181,691 rows and 135 columns. The data consists of columns such as country_txt (name of country), nkill (number of individuals killed), and iyear (year of attack). The data can be found at: [https://www.kaggle.com/datasets/START-UMD/gtd]. 
 
-The requirements for choosing data are: 
+The requirements for choosing data were: 
 
 - Be open-source.
 - Come from an authentic/authoritative source.
