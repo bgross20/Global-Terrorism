@@ -58,4 +58,4 @@ Tools: Jupyter notebooks, Excel, Tableau
 
 **Time-series analysis:** Decomposed a line chart, conducted a Dickey-Fuller test to check for stationarity, conducted several rounds of differencing to made data stationary, checked autocorrelations. 
 
-**Reporting Results:** Created a story in Tableau to display outcomes.
+**Reporting Results:** Created a story in Tableau to display outcomes. [https://public.tableau.com/app/profile/brittney.gross/viz/TerrorismProject_16988831396080/TerrorismStory?publish=yes]
