@@ -35,6 +35,9 @@ data sets with latitude and longitude.
 procedure will be explained explicitly in the corresponding Exercise, so you don’t need to
 worry about it now.
 
+Due to large file size not all of my data would upload into the 02. Data folder. The rest can be found at: 
+[https://drive.google.com/drive/folders/1YBUpamuBOEgm0tncopqjzuR3YreouSuT?usp=sharing]
+
 
 ## Tools 
 
