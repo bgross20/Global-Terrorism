@@ -40,7 +40,7 @@ worry about it now.
 
 Language: Python
 
-Libraries: NumPy, pandas, matplotlib, seaborn, quandl, statsmodels.api, datetime, rcParams, adfuller, LinearRegression, mean_squared_error, r2_score, plot_acf, plot_pacf, sklearn, KMeans, StandardScaler
+Libraries: NumPy, pandas, matplotlib, seaborn, quandl, statsmodels, datetime, folium, json, sklearn, pylab
 
 Tools: Jupyter notebooks, Excel, Tableau 
 
@@ -50,12 +50,12 @@ Tools: Jupyter notebooks, Excel, Tableau
 
 **Exploratory Analysis:** Explored basic descriptive statistics (max, min, quartiles, mean, standard deviation) for each variable. Also used scatterplots, correlation heatmaps, pair plots, and categorical plots to explore the distributions of data.
 
-**Conducted geospatial analysis using a shapefile:** Exploring Relationships, Data prep for Regression Analysis, Regression Analysis Standadizing the data, The elbow technique, k-means clustering, Subsetting of the Data Time series analysis: Decomposition Testing for stationarity ( Dicky-Fuller Test / Autocorelation Test )¶ Stationarizing the Data
+**Conducted geospatial analysis using a shapefile:** Imported JSON file and created choropleth map using folium and json libraries. 
 
-**Regression analysis:** Split data into a training and test set in order to conduct linear regression from scklearn.linear_model library. Checked the performance statistics using the MSE and R2 score. 
+**Regression analysis:** Split data into a training and test set in order to conduct linear regression from scklearn library. Checked the performance statistics using the MSE and R2 score. 
 
 **Cluster analysis:** Used elbow technique to determine appropriate number of clusters to run k-means algorithm with. Visualized clusters with scatterplots and calculated the descriptive statistics. 
 
-**Time-series analysis:** Decomposed a line chart, conducted a Dickey-Fuller test to check for stationarity, conducted several rounds of differencing to made data stationary, checked autocorrelations. 
+**Time-series analysis:** Decomposed a line chart, conducted a Dickey-Fuller test to check for stationarity, conducted several rounds of differencing to make data stationary, checked autocorrelations. 
 
 **Reporting Results:** Created a story in Tableau to display outcomes. [https://public.tableau.com/app/profile/brittney.gross/viz/TerrorismProject_16988831396080/TerrorismStory?publish=yes]
