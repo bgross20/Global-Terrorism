@@ -12,6 +12,7 @@ To build an interactive dashboard that will visually showcase well-curated resul
 
 I was able to choose which open-source data I wanted to work as long as it met certain requirements which are listed below. The data is open-source data from Kaggle. It consists of 181,691 rows and 135 columns. The data consists of columns such as country_txt (name of country), nkill (number of individuals killed), and iyear (year of attack). The data can be found at: [https://www.kaggle.com/datasets/START-UMD/gtd]. 
 
+
 The requirements for choosing data were: 
 
 - Be open-source.
@@ -34,6 +35,7 @@ data sets with latitude and longitude.
 - In the course of the Achievement you will source a time series data set too, but this
 procedure will be explained explicitly in the corresponding Exercise, so you don’t need to
 worry about it now.
+
 
 Due to large file size not all of my data would upload into the 02. Data folder. The rest can be found at: 
 [https://drive.google.com/drive/folders/1YBUpamuBOEgm0tncopqjzuR3YreouSuT?usp=sharing]
